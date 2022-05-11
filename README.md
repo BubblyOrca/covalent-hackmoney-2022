@@ -5,17 +5,17 @@ All templates use the Covalent API to pull on-chain data seamlessly from [suppor
 
 &nbsp;
 ## Analzying protocol price performance during on-chain attacks :star:!
-Web3 attacks are bound to become more prevalent as hackers become more clever :star:
+In this project we will be investigating the ongoing LUNA Terra $UST depegging crisis that has significantly reduced the value of investors stablecoins.
 
 &nbsp;
 ## Purpose
 I've had an interest in Web3 attacks since the Mt. Gox exchange hack :muscle:
-
+I think exploring the $UST debacle will give more clarity and insight on how we use safeguards, strategy, and execution to prevent events like these from happening. 
 
 &nbsp;
 ## Dashboards
 
-| [NFT Collection Dashboard](https://github.com/covalenthq/nft-dashboard-template)| [XY=K DEX Dashboard](https://github.com/covalenthq/dex-dashboard-template) |
+| [Terra LUNA Dashboard](https://github.com/covalenthq/nft-dashboard-template)| [XY=K DEX Dashboard](https://github.com/covalenthq/dex-dashboard-template) |
 | :-----------: | :-----------: |
-| [![NFT Collection Dashboard](./images/nft_collection_dashboard.png)](https://github.com/covalenthq/nft-dashboard-template) | [![XY=K DEX Dashboard](./images/dex_dashboard.png)](https://github.com/covalenthq/dex-dashboard-template) |
+| [![$UST Depeg Dashboard](./images/nft_collection_dashboard.png)](https://github.com/covalenthq/nft-dashboard-template) | [![XY=K DEX Dashboard](./images/dex_dashboard.png)](https://github.com/covalenthq/dex-dashboard-template) |
 
