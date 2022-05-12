@@ -10,7 +10,6 @@ In this project we will be investigating the ongoing Terra LUNA $UST depegging c
 ## Purpose
 I've had an interest in Web3 attacks since the Mt. Gox exchange hack :muscle:
 I think exploring the $UST debacle will give more clarity and insight on how we use safeguards, strategy, and execution to prevent events like these from happening. 
-
 &nbsp;
 ## Dashboards
 
