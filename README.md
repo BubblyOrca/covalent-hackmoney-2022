@@ -3,13 +3,14 @@ Covalent API project for HackMoney 2022 by ETHGlobal
 
 All templates use the Covalent API to pull on-chain data seamlessly from [supported blockchains](https://www.covalenthq.com/docs/networks/). 
 &nbsp;
+
 ## Analzying protocol price performance during on-chain attacks :star:!
 In this project we will be investigating the Fortress Protocol hack that occured on May 9th, 2022. The lending and borrowing protocol endure an orale manipulation attack that resulted in $3,000,000 USD lost.
 
 &nbsp;
 ## Purpose
 I've had an interest in Web3 attacks since the Mt. Gox exchange hack :muscle:
-I think exploring the $UST debacle will give more clarity and insight on how we use safeguards, strategy, and execution to prevent events like these from happening. 
+I think exploring the Fortress Protocol debacle will give more clarity and insight on how we use safeguards, strategy, and execution to prevent events like these from happening. 
 &nbsp;
 ## Dashboards
 
