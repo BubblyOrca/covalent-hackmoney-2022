@@ -4,7 +4,7 @@ Covalent API project for HackMoney 2022 by ETHGlobal
 All templates use the Covalent API to pull on-chain data seamlessly from [supported blockchains](https://www.covalenthq.com/docs/networks/). 
 &nbsp;
 ## Analzying protocol price performance during on-chain attacks :star:!
-In this project we will be investigating the ongoing Terra LUNA $UST depegging crisis that has significantly reduced the value of investors stablecoin stash. This is a pivotal time in alt-coin history because a stablecoin has depegged by > 50% overnight.
+In this project we will be investigating the Fortress Protocol hack that occured on May 9th, 2022. The lending and borrowing protocol endure an orale manipulation attack that resulted in $3,000,000 USD lost.
 
 &nbsp;
 ## Purpose
@@ -13,7 +13,7 @@ I think exploring the $UST debacle will give more clarity and insight on how we 
 &nbsp;
 ## Dashboards
 
-| [Terra LUNA Dashboard](https://github.com/covalenthq/nft-dashboard-template)| [XY=K DEX Dashboard](https://github.com/covalenthq/dex-dashboard-template) |
+| [Frotress Dashboard](https://github.com/covalenthq/nft-dashboard-template)| [XY=K DEX Dashboard](https://github.com/covalenthq/dex-dashboard-template) |
 | :-----------: | :-----------: |
-| [![$UST Depeg Dashboard](./images/nft_collection_dashboard.png)](https://github.com/covalenthq/nft-dashboard-template) | [![XY=K DEX Dashboard](./images/dex_dashboard.png)](https://github.com/covalenthq/dex-dashboard-template) |
+| [![Price Manipulation Dashboard](./images/nft_collection_dashboard.png)](https://github.com/covalenthq/nft-dashboard-template) | [![XY=K DEX Dashboard](./images/dex_dashboard.png)](https://github.com/covalenthq/dex-dashboard-template) |
 
