@@ -14,7 +14,7 @@ I think exploring the Fortress Protocol debacle will give more clarity and insig
 &nbsp;
 ## Dashboards
 
-| [Frotress Dashboard](https://github.com/covalenthq/nft-dashboard-template)| [XY=K DEX Dashboard](https://github.com/covalenthq/dex-dashboard-template) |
+| [Frotress Protocol Dashboard](https://github.com/covalenthq/nft-dashboard-template)| [XY=K DEX Dashboard](https://github.com/covalenthq/dex-dashboard-template) |
 | :-----------: | :-----------: |
 | [![Price Manipulation Dashboard](./images/nft_collection_dashboard.png)](https://github.com/covalenthq/nft-dashboard-template) | [![XY=K DEX Dashboard](./images/dex_dashboard.png)](https://github.com/covalenthq/dex-dashboard-template) |
 
