@@ -6,6 +6,11 @@ Website Link: https://fortress-protocol-hack-aggregator.webflow.io/
 ## Analzying protocol price performance during on-chain attacks :star:!
 In this project we will be investigating the Fortress Protocol hack that occured on May 9th, 2022. The lending and borrowing protocol endure an orale manipulation attack that resulted in $3,000,000 USD lost.
 
+<!-- image -->
+<p align="center">
+  <img src="fortress.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
+</p>
+
 &nbsp;
 ## Purpose
 I've had an interest in Web3 attacks since the Mt. Gox exchange hack :muscle:
