@@ -1,4 +1,4 @@
-# Covalent Hackmoney 2022
+# Covalent API Hackmoney 2022
 Covalent API project for HackMoney 2022 by ETHGlobal
 
 All templates use the Covalent API to pull on-chain data seamlessly from [supported blockchains](https://www.covalenthq.com/docs/networks/). 
